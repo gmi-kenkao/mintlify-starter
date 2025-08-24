@@ -79,7 +79,7 @@
           {
             "group": "Endpoint examples",
             "pages": [
-              "api-reference-2/endpoint/get"
+              "api-reference-2/endpoint/post"
             ]
           }
         ]
