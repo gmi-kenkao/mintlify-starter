@@ -66,6 +66,23 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "IAM API reference",
+        "groups": [
+          {
+            "group": "IAM API documentation",
+            "pages": [
+              "api-reference-2/introduction"
+            ]
+          },
+          {
+            "group": "Endpoint examples",
+            "pages": [
+              "api-reference-2/endpoint/get"
+            ]
+          }
+        ]
       }
     ],
     "global": {
