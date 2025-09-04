@@ -72,9 +72,10 @@
         "groups": [
           {
             "group": "IAM API documentation",
-            "pages": [
-              "api-reference-2/introduction"
-            ]
+             "openapi": {
+               "source": "https://api-spec.gmicloud-dev.com/cluster-engine-2-2-0/service_api.yaml",
+               "directory": "api-reference-2"
+          }
           },
           {
             "group": "Endpoint examples",
